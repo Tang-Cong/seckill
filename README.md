@@ -183,4 +183,13 @@
 > - 当开启秒杀时，才会暴露秒杀地址，秒杀地址结果MD5加密，同时使用盐值混淆，如果用户用第三方插件或手动修改数据，会抛出异常，阻止用户
 
 
-**预览地址**：
+**项目源码**：[https://github.com/Tang-Cong/seckill](https://github.com/Tang-Cong/seckill)
+
+**预览**：
+![](http://i.imgur.com/WCc71cg.gif)
+
+![](http://i.imgur.com/v1gLQ7f.gif)
+
+![](http://i.imgur.com/ihgU9Ql.gif)
+
+![](http://i.imgur.com/HG0Xaj8.gif)
